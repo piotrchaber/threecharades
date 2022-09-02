@@ -6,3 +6,6 @@
 # Ignore binary files
 *.exe
 *.o
+
+# Ignore build directory
+build/*
