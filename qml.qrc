@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qmls/main.qml</file>
+        <file>qmls/FewWords.qml</file>
+        <file>qmls/OneWord.qml</file>
+        <file>qmls/MyKeys.qml</file>
+        <file>qmls/Scoreboard.qml</file>
+        <file>qmls/StartPage.qml</file>
+	</qresource>
+</RCC>
